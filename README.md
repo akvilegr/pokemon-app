@@ -20,3 +20,4 @@ You will also see any lint errors in the console.
 + autocompletion in search field
 + number of results displayed
 + fully responsive design
++ accesibility
